@@ -1,0 +1,10 @@
+h1{
+    color:blue;
+    font-size: 20px;
+}
+a:hover{
+    color:green;
+}
+a:visited{
+    color:red;
+}
